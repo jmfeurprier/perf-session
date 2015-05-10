@@ -12,7 +12,7 @@ class SessionWrapper
     /**
      *
      *
-     * @return void
+     * @return bool
      */
     public function start()
     {
